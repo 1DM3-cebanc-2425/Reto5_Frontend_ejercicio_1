@@ -1,6 +1,6 @@
 # Reto5_Frontend_ejercicio_1
 
-Ejercicio 1: "Hola, Mundo!"
+"Hola, Mundo!"
 
 Objetivo: Familiarizarse con el entorno de React y crear el componente más básico.
 
